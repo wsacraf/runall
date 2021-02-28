@@ -1,0 +1,19 @@
+{
+  "name": "run_paralle_jobs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "run_parallel_jobs.js",
+  "dependencies": {
+    "mathjs": "^8.1.1",
+    "run-parallel": "^1.1.10"
+  },
+  "devDependencies": {
+    "mathjs":"8.1.1",
+    "run-parallel":"1.1.10"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
